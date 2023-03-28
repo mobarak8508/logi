@@ -4,4 +4,9 @@
             echo $i."it is even number"." <br>";
         }
       }
+
+      $m = 5;
+      $n+=10;
+
+      echo $n;
 ?>
